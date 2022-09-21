@@ -37,6 +37,11 @@ alist.remove(2)
 alist.pop(4)
 print(alist)
 
+
+
+
+다음엔 이 동아리 안들어올거야 개어려우ㅏ ㅜㅠㅠㅠㅠㅠ
+
 print(alist + [2])
 print(alist * 3)
 
